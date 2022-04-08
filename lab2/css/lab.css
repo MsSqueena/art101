@@ -1,0 +1,25 @@
+h1{
+  color: DarkSlateGray;
+  font-family: "Lucida Console", "Courier New", monospace;
+  border-bottom: 2px solid DarkSlateGrey;
+  text-align: center;
+}
+p{
+  font-family:"Lucida Console", "Courier New", monospace;
+  font-size: 100%;
+  margin-left: 15px;
+  color: LightCyan;
+}
+
+#content {
+  background-color: CadetBlue;
+  width: 500px;
+  padding: 10px;
+  margin: 10px;
+  min-height: 200px;
+  border: 3px solid Teal;
+  border-radius: 5px;
+}
+body{
+  background-color: DarkSlateGrey;
+}
