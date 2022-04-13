@@ -5,7 +5,7 @@ h1{
   font-family: "Times New Roman", sans-serif;
 }
 h2{
-  color: DodgerBlue;
+  color: IndianRed;
   font-size: 175%;
   font-family: "Times New Roman", sans-serif;
 }
@@ -47,6 +47,11 @@ body{
   margin: 20px 30px 20px 30px;
   padding: 10px 20px 10px 20px;
 }
+#return{
+  font-size: 150%;
+  color: RosyBrown;
+  font-family: "Garamond", sans-serif;
+}
 
 /* Screenshots and Images*/
 /* Located on Homepage*/
@@ -60,3 +65,31 @@ body{
 }
 
 /* Located on Lab 3*/
+#labthreeSS-One{
+  float: left;
+  margin: 20px 20px 10px 30px;
+  width: 500px;
+  border: solid 5px RosyBrown;
+  border-radius: 5px;
+}
+#labthreeSS-Two{
+  float: right;
+  margin: 20px 30px 50px 20px;
+  width: 900px;
+  border: solid 5px RosyBrown;
+  border-radius: 5px;
+}
+#labthreeSS-Three{
+  float: right;
+  margin: 20px 30px 20px 20px;
+  width: 900px;
+  border: solid 5px RosyBrown;
+  border-radius: 5px;
+}
+#labthreeSS-Four{
+  float: left;
+  margin: 10px 30px 20px 30px;
+  width: 800px;
+  border: solid 5px RosyBrown;
+  border-radius: 5px;
+}
