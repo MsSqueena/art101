@@ -1,0 +1,62 @@
+/* Text */
+h1{
+  color: DodgerBlue;
+  font-size: 300%;
+  font-family: "Times New Roman", sans-serif;
+}
+h2{
+  color: DodgerBlue;
+  font-size: 175%;
+  font-family: "Times New Roman", sans-serif;
+}
+p{
+  font-size: 150%;
+  color: RosyBrown;
+  font-family: "Garamond", sans-serif;
+}
+ul{
+  font-size: 150%;
+  color: RosyBrown;
+  font-family: "Garamond", sans-serif;
+}
+
+/* General Background */
+body{
+  background-color: PowderBlue;
+}
+
+/* Divs */
+#homepage{
+  background-color: PapayaWhip;
+  border: solid 5px RosyBrown;
+  border-radius: 10px;
+  margin: 30px 30px 30px 30px;
+  padding: 10px;
+}
+#labthree{
+  background-color: PapayaWhip;
+  border: solid 5px RosyBrown;
+  border-radius: 10px;
+  margin: 30px 30px 30px 30px;
+  padding: 30px 20px 30px 20px;
+}
+#screenshots{
+  background-color: PapayaWhip;
+  border: solid 5px RosyBrown;
+  border-radius: 10px;
+  margin: 20px 30px 20px 30px;
+  padding: 10px 20px 10px 20px;
+}
+
+/* Screenshots and Images*/
+/* Located on Homepage*/
+
+#my-portrait{
+  float: right;
+  margin: 10px 20px 20px 20px;
+  width: 400px;
+  border: solid 5px RosyBrown;
+  border-radius: 5px;
+}
+
+/* Located on Lab 3*/
