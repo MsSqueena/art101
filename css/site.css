@@ -15,8 +15,18 @@ p{
   font-family: "Garamond", sans-serif;
 }
 ul{
+  font-size: 100%;
+  color: RosyBrown;
+  font-family: "Garamond", sans-serif;
+}
+ol{
   font-size: 150%;
   color: RosyBrown;
+  font-family: "Garamond", sans-serif;
+}
+pre{
+  font-size: 100%;
+  color: Brown;
   font-family: "Garamond", sans-serif;
 }
 
@@ -90,6 +100,15 @@ body{
   float: left;
   margin: 10px 30px 20px 30px;
   width: 800px;
+  border: solid 5px RosyBrown;
+  border-radius: 5px;
+}
+
+/* located on Lab 4*/
+#labFourSS-One{
+  float: right;
+  margin: 20px 20px 10px 30px;
+  width: 500px;
   border: solid 5px RosyBrown;
   border-radius: 5px;
 }
