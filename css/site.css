@@ -28,6 +28,7 @@ pre{
   font-size: 100%;
   color: Brown;
   font-family: "Garamond", sans-serif;
+
 }
 
 /* General Background */
@@ -109,6 +110,49 @@ body{
   float: right;
   margin: 20px 20px 10px 30px;
   width: 500px;
+  border: solid 5px RosyBrown;
+  border-radius: 5px;
+}
+#labFourSS-Two{
+  float: right;
+  margin: 10px 20px 10px 30px;
+  width: 500px;
+  border: solid 5px RosyBrown;
+  border-radius: 5px;
+}
+#labFourSS-Three{
+  margin: 10px 15px 10px 30px;
+  width: 300px;
+  border: solid 5px RosyBrown;
+  border-radius: 5px;
+}
+#labFourSS-Four{
+  margin: 10px 15px 10px 20px;
+  width: 285px;
+  border: solid 5px RosyBrown;
+  border-radius: 5px;
+}
+#labFourSS-Five{
+  margin: 0px 30px 50px 40px;
+  width: 1100px;
+  border: solid 5px RosyBrown;
+  border-radius: 5px;
+}
+#labFourSS-Six{
+  margin: 10px 10px 10px 200px;
+  width: 1500px;
+  border: solid 5px RosyBrown;
+  border-radius: 5px;
+}
+#labFourSS-Seven{
+  margin: 10px 10px 10px 200px;
+  width: 1500px;
+  border: solid 5px RosyBrown;
+  border-radius: 5px;
+}
+#labFourSS-Eight{
+  margin: 10px 10px 10px 200px;
+  width: 1500px;
   border: solid 5px RosyBrown;
   border-radius: 5px;
 }
