@@ -203,3 +203,19 @@ body{
   border: solid 5px RosyBrown;
   border-radius: 5px;
 }
+
+/*lab 6*/
+#labSixSS-One{
+  float: right;
+  margin: 30px 10px 30px 10px;
+  width: 750px;
+  border: solid 5px RosyBrown;
+  border-radius: 5px;
+}
+#labSixSS-Two{
+  float: right;
+  margin: 10px 10px 0px 0px;
+  width: 425px;
+  border: solid 5px RosyBrown;
+  border-radius: 5px;
+}
