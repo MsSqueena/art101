@@ -39,6 +39,11 @@ pre{
   color: RosyBrown;
   font-family: "Garamond", sans-serif;
 }
+b {
+  font-size: 100%;
+  color: Brown;
+  font-family: "Garamond", sans-serif;
+}
 
 /* General Background */
 body{
