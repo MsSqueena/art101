@@ -77,7 +77,11 @@ body{
   color: RosyBrown;
   font-family: "Garamond", sans-serif;
 }
-
+#output{
+  font-size: 150%;
+  color: RosyBrown;
+  font-family: "Garamond", sans-serif;
+}
 /* Screenshots and Images*/
 /* Located on Homepage*/
 

@@ -6,7 +6,7 @@ Lab 7: Functions
 
 //For this function, we are going to short the letters in someone's name.
 function nameSorter(x){
-  //Get's user's input & add a little comment
+  //Using the User's input, add a little comment
   document.writeln("<b>"+x+"</b> hu? That's a pretty cool name! <br>");
   document.writeln("I hope you don't mind but I'm going to switch the letters in your name around a bit.<br>");
 
@@ -21,6 +21,7 @@ function nameSorter(x){
   document.writeln("And then we're going to rearrange them in alphabetical order. . . <br>");
   return joined;
 }
-//print the function
+//Get the user's input
 var userName = window.prompt("What's your name?");
+//Call the function and add the user input
 document.writeln("And tada! Your name is now <b>"+nameSorter(userName)+"</b><br>");
