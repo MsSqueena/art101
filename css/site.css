@@ -94,6 +94,16 @@ body{
   color: Brown;
   font-family: "Garamond", sans-serif;
 }
+#annOutput{
+  background-color: PeachPuff;
+  border: solid 2px Brown;
+  border-radius: 10px;
+  margin: 10px 10px 10px 10px;
+  padding: 10px 10px 10px 10px;
+  font-size: 100%;
+  color: Brown;
+  font-family: "Garamond", sans-serif;
+}
 /* Screenshots and Images*/
 /* Located on Homepage*/
 
