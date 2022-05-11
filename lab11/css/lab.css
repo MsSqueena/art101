@@ -1,4 +1,9 @@
 /*Default values*/
+ .textColor{
+   font-size: 100%;
+   color: Brown;
+   font-family: "Garamond", sans-serif;
+ }
 .box{
   background-color: PeachPuff;
   border: solid 2px Brown;
@@ -15,6 +20,14 @@
    border: solid 2px CornflowerBlue;
    color: Blue;
    font-family: "Garamond", sans-serif;
+}
+.defButtonTwo{
+   background-color: AliceBlue;
+   border-radius: 5px;
+   border: solid 2px CornflowerBlue;
+   color: Blue;
+   font-family: "Garamond", sans-serif;
+   margin: 5px 5px 5px 5px;
 }
 /*------------------------------------------*/
 /*When you Hover over the buttons, it will change too....*/
