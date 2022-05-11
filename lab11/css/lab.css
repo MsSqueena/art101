@@ -1,0 +1,70 @@
+/*Default values*/
+.box{
+  background-color: PeachPuff;
+  border: solid 2px Brown;
+  border-radius: 10px;
+  margin: 5px 5px 5px 5px;
+  padding: 5px 5px 5px 5px;
+  font-size: 100%;
+  color: Brown;
+  font-family: "Garamond", sans-serif;
+}
+.defButton{
+   background-color: AliceBlue;
+   border-radius: 5px;
+   border: solid 2px CornflowerBlue;
+   color: Blue;
+   font-family: "Garamond", sans-serif;
+}
+/*------------------------------------------*/
+/*When you Hover over the buttons, it will change too....*/
+.hoverOne{                    /*Challenge*/
+  background-color: pink;
+  border-color: IndianRed;
+  color: IndianRed;
+}
+.hoverTwo{                    /*Problem*/
+  background-color: PowderBlue;
+  border-color: RoyalBlue;
+  color: RoyalBlue;
+}
+.hoverThree{                  /*Results*/
+  background-color: DarkSeaGreen;
+  border-color: DarkGreen;
+  color: DarkGreen;
+}
+
+
+/*Changing the button color and the box it's in*/
+/*Challenge*/
+.changeOne{
+  background-color: lightSalmon;
+  color: Brown;
+}
+.buttonOne{
+  background-color: tomato;
+  border-color: Maroon;
+  color: Maroon;
+}
+/*Problem*/
+.changeTwo{
+  background-color: Aquamarine;
+  border-color: MidnightBlue;
+  color: MidnightBlue;
+}
+.buttonTwo{
+  background-color: SkyBlue;
+  border-color: Navy;
+  color: Navy;
+}
+/*Results*/
+.changeThree{
+  background-color: DarkSeaGreen;
+  border-color: DarkGreen;
+  color: DarkGreen;
+}
+.buttonThree{
+  background-color: springGreen;
+  border-color: darkGreen;
+  color:  DarkGreen;
+}
