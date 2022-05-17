@@ -3,14 +3,14 @@ Author: Jacqueline Castro
 Created: 05/16/2022
 Lab 12: Conditionals
 */
-function mod(x){
+function mod(x){              //simply collect the mod results
   var length = x.length;
   var value = length % 4;
   console.log(value);
   return value;
 }
 function sortingHat(x){
-  //BONUST TASK X.2
+  //BONUST TASK X.2: Simplify the choosing.
   var houses = ["Gryffindor", "Ravenclaw", "Slytherin", "Hufflepuff"];
   return houses[x];
 }
