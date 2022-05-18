@@ -56,11 +56,12 @@ outputEl = $("#output");
 submitEl = $("#submit");
 
 submitEl.click(function(){
-  totalEl = $("#total").val();
+  totalEl  = $("#total").val();
   valOneEl = $("#valOne").val();
   valTwoEl = $("#valTwo").val();
   valThrEl = $("#valThr").val();
   valFourEl= $("#valFour").val();
+
   console.log(totalEl);
   outputEl.html(mod(totalEl, valOneEl, valTwoEl, valThrEl, valFourEl));
 })
