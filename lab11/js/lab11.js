@@ -1,4 +1,4 @@
-/*
+ /*
 Author: Jacqueline Castro
 Created: 05/10/2022
 Lab 11: Libraries & JQuery

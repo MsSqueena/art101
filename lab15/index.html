@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Lab 15: AJAX</title>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+  <link rel="stylesheet" type="text/css" href="../css/site.css">
+  <link rel="stylesheet" type="text/css" href="css/lab15.css">
+  <script src="js/lab15.js"defer></script>
+</head>
+
+<body>
+
+  <div id="homepage">
+    <h1>Lab 15: AJAX</h1>
+      <p>For this lab, we get to play around with AJAX but most importantly, we
+        get to play around with the different uses of API and how to implement
+        and reach out to different ones. </p>
+    <h2>ANY DIFFICULTIES</h2>
+      <p>I did NOT attend the lecture that day because of a lot of personal life
+        things getting in the way. Sadly, becuase I wasn't there I didn't
+        understand how to use API or AJAX in general. it was incredible confusing.
+        however after attending class today, it made a lot more sense than it
+        did before and I kind of got the hang of it after several hours.</p>
+    <h2>RESULTS</h2>
+      <p>You can see the results right on the bottom. The first box is where I'm
+        calling the Pokemon.api to call out pokemon information. I did it perhaps
+        the most...unprofessional and least recommended way, but it worked.
+        just type in the pokemon name in all lower cases and it works!
+      </p>
+      <p>As for the one below. NASA! and it works.</p>
+      </p>
+    <div id="return">
+      <a href="../index.html">Return to homepage</a>
+    </div>
+  </div>
+
+  <div id="homepage">
+    <h1>Give Me A Pokemon!</h1>
+      <p>All lowercase letters please or it won't work.</p>
+      <input type="text" id="pokemon"/>
+      <button id="activate">Click Me to Activate</button>
+
+      <div id="output"></div>
+  </div>
+
+  <div id="homepage">
+    <h1>NASA's Picture of the Day</h1>
+      <p>BONUS TASK X: Let's try out the api with a key code</p>
+      <button id="nasaButton">Click Me To See The Stars</button>
+
+      <div id="nasaOutput"></div>
+</body>
+</html>
