@@ -63,6 +63,7 @@ function getNasaAjax(){
     $("#nasaOutput").append("<img src="+imgUrl+">");
     $("#nasaOutput").append("<p>"+ description +"</p>");
   })
+  
   .fail(function(data){
     $("nasaOutput").html("Something Fucked Up.");
   })
